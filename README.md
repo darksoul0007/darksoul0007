@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sayan</h1> 
+<h1 align="center">Hi, I'm Sayan <img src="waving-hand_1f44b.png" width="30px"></h1>
   
 
 # 💫 About Me:
